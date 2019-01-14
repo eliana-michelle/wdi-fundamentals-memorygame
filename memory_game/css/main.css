@@ -118,3 +118,13 @@ footer {
   margin: 0;
   letter-spacing: .08em;
 }
+
+#reset {
+    font-family: "Raleway";
+}
+
+#user-score {
+  font-family: "Raleway";
+  background-color: #0D2C40;
+  color: white;
+}
